@@ -45,6 +45,3 @@ including use cases and view model to obtain the data
 - Open it in Android Studio
 - Wait until dependencies are installed
 - Run app in your emulator or physical device
-
-![App Screens](app/app-images.png)
-![App Screens](app/app-images2.png)
