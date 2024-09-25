@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="school_name">Perston University Islamabad</string>
+    <string name="school_name_icon">TecMM Zapopan campus icon</string>
+    <string name="school_degree"> </string>
+    <string name="school_field">Bachelor of Computer Science(BSCS)</string>
+    <string name="school_grade">A</string>
+    <string name="school_start_date">2023</string>
+    <string name="school_end_date">2025</string>
+    <string name="school_url">https://www.preston.edu.pk/</string>
+    <string name="wizeline_academy_school">BISE BWP</string>
+    <string name="wizeline_academy_icon">Wizeline Academy icon</string>
+    <string name="wizeline_academy_url">https://bisebwp.pk/</string>
+    <string name="animation_degree">Bise bwp ICS</string>
+    <string name="jetpack_degree">Bise bwp</string>
+    <string name="coursera_school">The Islamia University of Bahawalpur (IUB)</string>
+    <string name="coursera_school_icon">Coursera icon</string>
+    <string name="meta_android_degree">BCS</string>
+    <string name="meta_android_course_description">BCS From IUB.</string>
+    <string name="meta_android_course_url">https://www.iub.edu.pk/</string>
+    <string name="animation_course_description">Learn from experienced IUB how to create android app through the native framework in an efficient way.</string>
+    <string name="jetpack_course_description">ICS </string>
+    <string name="android_course"> </string>
+    <string name="may_2022">2016</string>
+    <string name="apr_2022">2018</string>
+    <string name="september_2022">2018</string>
+    <string name="february_2023">2020</string>
+    <string name="education_school">University</string>
+    <string name="education_course"> </string>
+</resources>
